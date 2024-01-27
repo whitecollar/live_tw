@@ -13,3 +13,4 @@ export class AddTeamTableResultDto {
   readonly itemIndex: number
   readonly roundName: string
 }
+ТЗЬ
